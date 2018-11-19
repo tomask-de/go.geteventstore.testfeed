@@ -15,8 +15,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/jetbasrawi/go.geteventstore.testfeed/internal/atom"
-	"github.com/jetbasrawi/go.geteventstore.testfeed/internal/uuid"
+	"github.com/tomask-de/go.geteventstore.testfeed/internal/atom"
+	"github.com/tomask-de/go.geteventstore.testfeed/internal/uuid"
 )
 
 // AtomFeedSimulator is the type that stores configuration and state for
